@@ -1,0 +1,60 @@
+@media(width > 1440px){
+    h2{
+      font-size: 36px;  
+    }
+    .main{
+        width: 1440px;
+    }
+    body{
+        background: #FAFAFA;
+    }
+    .hover{
+        display: grid;
+        justify-content: center;
+
+
+
+    }
+    .pw{
+        font-size: 36px;
+        margin-bottom: 0;
+    }
+    .pr{
+        font-size: 15px;
+        width: 540px;
+        margin-bottom: 100px;
+    }
+
+    .lr{
+        width: 350px;
+        height: 4px;
+    }
+
+    .sup{
+        height: 250px;
+        width: 350px;
+    }
+
+
+    img{
+        width: 64px;
+
+    }
+    .supp2{
+        width: 286px;
+    }
+
+    .hover1{
+        z-index: 2;
+        margin-left: -140%;
+
+    }
+    .hover2{
+        z-index: 3;
+        margin-top: -51.5%
+    }
+    .hover4{
+        margin-right: -140%;
+        margin-top: -51.5%;
+    }
+}
